@@ -5,7 +5,7 @@ const settings = {
   botOwner: 'Hector Manuel', 
   timezone: 'Africa/Accra',
   prefix: '.',
-  ownerNumber: '+233509977126', 
+  ownerNumber: '+919339066510', 
   AUTO_STATUS_REACT: 'true',
   AUTO_STATUS_REPLY: 'false',
   AUTO_STATUS_MSG: 'Status Viewed Queen Riam',
